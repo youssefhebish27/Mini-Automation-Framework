@@ -32,4 +32,4 @@ Test Name: Checkout Process | Status: Failed
 =================================
 ```
 ## 👨‍💻 About Me
-I love Software Testing. I am currently learning Java to improve my skills in Test Automation and build reliable testing frameworks.
+I am currently learning Java to improve my skills in Test Automation and build reliable testing frameworks.
